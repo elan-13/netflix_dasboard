@@ -56,9 +56,3 @@ This project showcases a Power BI dashboard that visualizes key insights from Ne
 3. Explore or modify the visuals as you like!
 
 ---
-
-## 💬 Feedback
-
-Feel free to raise issues or suggestions via GitHub Issues.
-
----
