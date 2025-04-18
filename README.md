@@ -34,13 +34,6 @@ This project showcases a Power BI dashboard that visualizes key insights from Ne
 
 ---
 
-## 🚫 Note
-
-> The dataset used to build this dashboard is not included due to data sharing policy.  
-> All visuals and data insights are embedded within the `.pbix` file.
-
----
-
 ## 🛠 Tools Used
 
 - Power BI Desktop
